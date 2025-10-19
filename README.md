@@ -21,4 +21,4 @@
 - [Untangled](Finals/Forensics/Untangled.md)
 
 ### Reversing
-- Mystery GUI <sub>will do in free time XD</sub>
+- Mystery GUI <sub>will do in free time XD | nevermind i actually forgot how i solved it....</sub>
